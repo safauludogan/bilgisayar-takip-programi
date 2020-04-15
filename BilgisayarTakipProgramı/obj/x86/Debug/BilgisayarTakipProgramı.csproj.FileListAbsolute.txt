@@ -1,0 +1,96 @@
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Ayarlar.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.goruntuAl.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.KayıtFormu.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.YardımVeSorun.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.EpostaDegisim.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Giriş.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreDegistirme.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreOlustur.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Properties.Resources.resources
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\dell\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Ayarlar.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.goruntuAl.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.KayıtFormu.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.YardımVeSorun.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.EpostaDegisim.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Giriş.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreDegistirme.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreOlustur.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Properties.Resources.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.csproj.GenerateResource.Cache
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\tos\Desktop\Yedek\safa proje\2015\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Ayarlar.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.goruntuAl.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.KayıtFormu.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.YardımVeSorun.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.EpostaDegisim.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Giriş.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreDegistirme.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreOlustur.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Properties.Resources.resources
+C:\Users\tos\Desktop\Projelerim\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.csproj.GenerateResource.Cache
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Ayarlar.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.goruntuAl.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.KayıtFormu.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.YardımVeSorun.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.EpostaDegisim.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Giriş.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreDegistirme.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreOlustur.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Properties.Resources.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.csproj.GenerateResource.Cache
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.resim_silme.resources
+C:\Users\tos\Desktop\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.csprojResolveAssemblyReference.cache
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.pdb
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Ayarlar.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.goruntuAl.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.KayıtFormu.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.resim_silme.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.YardımVeSorun.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.EpostaDegisim.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Giriş.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreDegistirme.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreOlustur.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Properties.Resources.resources
+C:\Users\SeFa\Desktop\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.exe.config
+C:\Users\SeFa\Desktop\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.exe
+C:\Users\SeFa\Desktop\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.pdb
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.exe.config
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.exe
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\bin\x86\Debug\BilgisayarTakipProgramı.pdb
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.csprojAssemblyReference.cache
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Ayarlar.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.goruntuAl.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.KayıtFormu.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.resim_silme.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.YardımVeSorun.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.EpostaDegisim.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Giriş.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreDegistirme.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.SifreOlustur.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.Properties.Resources.resources
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.csproj.GenerateResource.cache
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.exe
+D:\Safa-Projelerim\C# Herşey\PROJELER\BilgisayarTakipProgramı\BilgisayarTakipProgramı\obj\x86\Debug\BilgisayarTakipProgramı.pdb
